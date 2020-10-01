@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Health</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">TgsYP6lvffzIVFY4esSeThDkANBuQijNb8gyeuaA</string>
+    <string name="back4app_client_key">PzjylTw3sYl0IfzxUY6grszslT4oIu6vNIUIy1FwT</string>
+
+    <string name="FACEBOOK_APP_ID">172655773377473</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">6603b88d3f90677619d561bb422b35fe</string>
+    <string name="fingerauth_dialog_description">Confirm fingerprint to continue</string>
+    <string name="fingerauth_dialog_hint">Touch sensor</string>
+    <string name="fingerauth_dialog_not_recognized">Fingerprint not recognized. Try again</string>
+    <string name="fingerauth_dialog_success">Fingerprint recognized</string>
+</resources>
